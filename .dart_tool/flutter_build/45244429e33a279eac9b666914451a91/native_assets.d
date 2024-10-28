@@ -1,0 +1,1 @@
+ C:\\Users\\Windows10\\Downloads\\Test-last\\.dart_tool\\flutter_build\\45244429e33a279eac9b666914451a91\\native_assets.yaml: 

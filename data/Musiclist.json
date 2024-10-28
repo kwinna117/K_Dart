@@ -1,0 +1,68 @@
+[
+  {
+    "id": 0,
+    "name": "POP",
+    "imageUrl": "https://www.fungjaizine.com/wp-content/uploads/2019/04/mix-768x768.jpg",
+    "playlist": "10"
+  },
+  {
+    "id": 1,
+    "name": "COUNRY",
+    "imageUrl": "https://www.fungjaizine.com/wp-content/uploads/2019/04/white-768x768.jpg",
+    "playlist": "10"
+  },
+  {
+    "id": 2,
+    "name": "R&B",
+    "imageUrl": "https://www.fungjaizine.com/wp-content/uploads/2019/04/green-1024x1024.jpg",
+    "playlist": "10"
+  },
+  {
+    "id": 3,
+    "name": "ROCK",
+    "imageUrl": "https://www.fungjaizine.com/wp-content/uploads/2019/04/grey-1024x1024.jpg",
+    "playlist": "10"
+  },
+  {
+    "id": 4,
+    "name": "CLASSIC",
+    "imageUrl": "https://www.fungjaizine.com/wp-content/uploads/2019/04/orange-1024x1024.jpg",
+    "playlist": "10"
+  },
+  {
+    "id": 5,
+    "name": "JAZZ",
+    "imageUrl": "https://www.fungjaizine.com/wp-content/uploads/2019/04/brown-1024x1024.jpg",
+    "playlist": "10"
+  },
+  {
+    "id": 6,
+    "name": "HIPHOP",
+    "imageUrl": "https://www.fungjaizine.com/wp-content/uploads/2019/04/red-1024x1024.jpg",
+    "playlist": "10"
+  },
+  {
+    "id": 7,
+    "name": "INDY",
+    "imageUrl": "https://www.fungjaizine.com/wp-content/uploads/2019/04/navy-1024x1024.jpg",
+    "playlist": "10"
+  },
+  {
+    "id": 8,
+    "name": "BLUES",
+    "imageUrl": "https://m.media-amazon.com/images/I/81iqNypAS-L._AC_UL320_.jpg",
+    "playlist": "10"
+  },
+  {
+    "id": 9,
+    "name": "EDM",
+    "imageUrl": "https://www.fungjaizine.com/wp-content/uploads/2019/04/purple-1024x1024.jpg",
+    "playlist": "10"
+  },
+    {
+    "id": 10,
+    "name": "K-POP",
+    "imageUrl": "https://www.fungjaizine.com/wp-content/uploads/2019/04/pink-1024x1024.jpg",
+    "playlist": "10"
+  }
+]
